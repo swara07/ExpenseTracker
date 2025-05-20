@@ -1,0 +1,3 @@
+income, stocks , 30000 , 2025-05-01
+income, PF , 70000 , 2025-05-01
+expense, trip , 35000 , 2025-05-01
